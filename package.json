@@ -1,0 +1,15 @@
+{
+  "name": "multisignaturescheme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Reddy Bijivemula",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "big-integer": "^1.6.52",
+    "crypto": "^1.0.1"
+  }
+}
